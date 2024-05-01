@@ -1,0 +1,96 @@
+{
+  "flores": [
+    {
+      "id": "1",
+      "nombre": "Rosa china",
+      "nombre_cientifico": "Rosa chinensis",
+      "descripcion": "La rosa china es un arbusto de hoja perenne y una de las variedades más populares del planeta. Cuenta con un tronco leñoso con ramificaciones y llamativas flores fragantes de color rosa a rojo. El extracto de sus flores se utiliza en productos cosméticos o perfumes. Sus flores se regalan habitualmente como símbolo de amor y pasión.",
+      "siembra": "Primavera, Otoño",
+      "floracion": "verano",
+      "poda": "finales de invierno",
+      "Riego": "Cada 1-2 semanas",
+      "img": "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/202648501331689472.jpeg?x-oss-process=image/format,webp/resize,s_422&v=1.3" 
+    },
+    {
+      "id": "2",
+      "nombre": "Reina de la noche",
+      "nombre_cientifico": "Epiphyllum oxypetalum",
+      "descripcion": "La reina de la noche (Epiphyllum oxypetalum) pertenece a la familia de los cactus, pero su comportamiento es muy similar al de las orquídeas, ya que crece sobre otros árboles en entornos tropicales. No tiene espinas, pero sí unas maravillosas flores que aparecen de forma esporádica y pueden llegar a medir hasta 25 centímetros. Blancas y muy perfumadas, las flores se abren cuando termina el día y se marchitan a la mañana siguiente. De ahí su nombre, reina de la noche.",
+      "siembra": "Primavera, Otoño",
+      "floracion": "finales de invierno",
+      "poda": "no requiere",
+      "Riego": "Cada 2 semanas",
+      "img": "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/152569479052656642.jpeg?x-oss-process=image/format,webp/resize,s_422&v=1.3" 
+    },
+    {
+      "id": "3",
+      "nombre": "Crisantemo",
+      "nombre_cientifico": "Chrysanthemum morifolium",
+      "descripcion": "La flor imperial del Japón, cuyo nombre en latín significa nada menos que «flor de oro», el crisantemo es una de las plantas ornamentales más ampliamente cultivadas y de mayor importancia cultural y económica del mundo. Prueba de ello es que hoy en día existen 29.000 variedades nuevas de esta flor.",
+      "siembra": "Primavera",
+      "floracion": "otoño",
+      "poda": "final de primavera",
+      "Riego": "Cada 2 dias",
+      "img": "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/201173493597962240.jpeg?x-oss-process=image/format,webp/resize,s_422&v=1.3" 
+    },
+    {
+      "id": "4",
+      "nombre": "Tulipan",
+      "nombre_cientifico": "Tulipa gesneriana",
+      "descripcion": "La tulipán llegó a Europa y causó furor en Holanda a partir del año 1634; sus bulbos llegaron a intercambiarse por ganado y por viviendas. Esta especie altamente ornamental no es de cultivo sencillo pero tiene su recompensa, unas espectaculares flores de aroma dulce. Hoy en día, la mayoría de variedades de tulipanes cultivados proceden de esta especie.",
+      "siembra": "Principios de primavera, Finales de otoño, Principios de invierno, Finales de invierno",
+      "floracion": "Principios de verano",
+      "poda": "invierno",
+      "Riego": "Cada 1-2 semanas",
+      "img": "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/154043567663218714.jpeg?x-oss-process=image/format,webp/resize,s_422&v=1.3" 
+    }
+    
+    
+  ],
+  "frutales": [
+    {
+      "id": "1",
+      "nombre": "Manzano",
+      "nombre_cientifico": "Malus pumila",
+      "descripcion": "El manzano es el árbol frutal comestible más cultivado. Se cree que fue domesticado hace algo más de 15 mil años. Los antiguos romanos fueron los encargados de introducirlo en Europa. Este árbol aparece en la mitología griega como el árbol de la vida que da manzanas de oro. Además, en la Biblia las manzanas aparecen como el fruto prohibido.",
+      "siembra": "Primavera, Principios de verano, Otoño, Principios de invierno",
+      "cosecha": "Finales de invierno, Primavera, Principios de verano, Mediados de verano",
+      "poda": "finales de invierno",
+      "Riego": "Cada 1-2 semanas",
+      "img": "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/201218453315649536.jpeg?x-oss-process=image/format,webp/resize,s_422&v=1.3" 
+    },
+    {
+      "id": "2",
+      "nombre": "Higuera",
+      "nombre_cientifico": "Ficus carica",
+      "descripcion": "La higuera produce higos como fruto que son comestibles. Además, también produce látex blanco que se ha usado para la producción de quesos. Es uno de los primeros árboles cultivados por el hombre. Dado que sus frutos se comercializan, la higuera ha resultado muy importante para la economía, ya que se cultiva extensamente.",
+      "siembra": "Primavera, Principios de verano, Otoño, Principios de invierno",
+      "cosecha": "Verano, Otoño, Principios de invierno",
+      "poda": "Invierno",
+      "Riego": "Cada 1-2 semanas",
+      "img": "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/154187934398939162.jpeg?x-oss-process=image/format,webp/resize,s_422&v=1.3" 
+    },
+    {
+      "id": "3",
+      "nombre": "Naranjo trifoliado",
+      "nombre_cientifico": "Citrus trifoliata",
+      "descripcion": "El singular trilistni citronovec funciona de maravilla como seto vivo para delimitar propiedades por sus espinas firmes y su gran tolerancia a las podas fuertes, aunque su uso más frecuente es como portainjertos de otras plantas y, en especial, de los cítricos, debido a su gran resistencia.",
+      "siembra": "Primavera, Otoño",
+      "cosecha": "Otoño",
+      "poda": "Primavera",
+      "Riego": "Cada 1-2 semanas",
+      "img": "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/154068276610072596.jpeg?x-oss-process=image/format,webp/resize,s_422&v=1.3" 
+    },
+    {
+      "id": "4",
+      "nombre": "Limonero",
+      "nombre_cientifico": "Citrus limon",
+      "descripcion": "El limonero es uno de los árboles frutales más cultivados para el consumo de su fruta. España y Argentina son los principales exportadores mundiales de limón. La esencia del limón se obtiene de la cáscara, se utiliza en perfumería y como aromatizante. En adición, con su madera de llamativo veteado se pueden crear hermosas piezas.",
+      "siembra": "Mediados de primavera, Finales de primavera, Principios de verano, Otoño, Principios de invierno",
+      "cosecha": "Principios de primavera, Mediados de otoño, Finales de otoño, Invierno",
+      "poda": "Primavera",
+      "Riego": "Cada 1-2 semanas",
+      "img": "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/201174112073252864.jpeg?x-oss-process=image/format,webp/resize,s_422&v=1.3" 
+    }
+  ]
+}
