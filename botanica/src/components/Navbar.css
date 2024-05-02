@@ -1,5 +1,7 @@
 .navbar {
     padding: 20px;
+    background: #2aaa6e;
+    
 }
 
 .navbar nav {
@@ -11,10 +13,11 @@
 
 .navbar a {
     text-decoration: none;
+    color: #fff;
 }
 
 .navbar a.home {
-    margin-right: auto;
+    margin-left: 0;
 }
 
 .navbar a:last-child {

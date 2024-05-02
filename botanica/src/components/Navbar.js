@@ -16,7 +16,8 @@ export default function Navbar() {
             <Link to="/" className='home'>
                 <h1>Tu guia botánica</h1>
             </Link>
-            <Link to="/details">Información general</Link>
+            <Link to="/">Home</Link>
+            <Link to="/info">FAQ</Link>
         </nav>
     </div>
   )

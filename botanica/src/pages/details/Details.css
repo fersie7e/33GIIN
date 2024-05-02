@@ -1,0 +1,53 @@
+.planta {
+    max-width: 1200px;
+    margin: 30px auto;
+}
+
+.planta .contenido {
+    display: block;
+    background: #fff;
+    padding: 30px;
+    border-radius: 6px;
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.1);
+}
+
+.planta .contenido .imagen {
+    text-align: center;
+}
+
+.planta .contenido .imagen img{
+    position: relative;
+    max-width: 300px;
+    border-radius: 6px;
+    
+}
+
+.planta .contenido .info {
+    margin: 0 auto;
+}
+
+.planta dt {
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
+.planta dd {
+    
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.boton {
+    padding: 10px;
+    position: relative;
+    background: #2aaa6e;
+    color: #FFF;
+    border-radius: 6px;
+    max-width: 80px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+

@@ -5,8 +5,10 @@ import { BrowserRouter, Route, Routes} from 'react-router-dom'
 import Navbar from './components/Navbar'
 import Home from './pages/home/Home'
 import Details from './pages/details/Details'
+import Info from './pages/info/Info';
 
 import './App.css';
+
 
 function App() {
   return (
@@ -15,8 +17,8 @@ function App() {
         <Navbar />
         <Routes>
           <Route path='/' element={<Home />}/>
-          <Route path='/details' element={<Details />}/>
-          
+          <Route path='/details/:categoria/:id' element={<Details />}/>
+          <Route path='/info' element={<Info />}/>
         </Routes>
       </BrowserRouter>
     </div>

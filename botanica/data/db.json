@@ -8,7 +8,7 @@
       "siembra": "Primavera, Otoño",
       "floracion": "verano",
       "poda": "finales de invierno",
-      "Riego": "Cada 1-2 semanas",
+      "riego": "Cada 1-2 semanas",
       "img": "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/202648501331689472.jpeg?x-oss-process=image/format,webp/resize,s_422&v=1.3" 
     },
     {
@@ -19,8 +19,8 @@
       "siembra": "Primavera, Otoño",
       "floracion": "finales de invierno",
       "poda": "no requiere",
-      "Riego": "Cada 2 semanas",
-      "img": "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/152569479052656642.jpeg?x-oss-process=image/format,webp/resize,s_422&v=1.3" 
+      "riego": "Cada 2 semanas",
+      "img": "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/202702012329230336.jpeg?x-oss-process=image/format,webp/resize,s_422&v=1.3" 
     },
     {
       "id": "3",
@@ -30,7 +30,7 @@
       "siembra": "Primavera",
       "floracion": "otoño",
       "poda": "final de primavera",
-      "Riego": "Cada 2 dias",
+      "riego": "Cada 2 dias",
       "img": "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/201173493597962240.jpeg?x-oss-process=image/format,webp/resize,s_422&v=1.3" 
     },
     {
@@ -41,12 +41,13 @@
       "siembra": "Principios de primavera, Finales de otoño, Principios de invierno, Finales de invierno",
       "floracion": "Principios de verano",
       "poda": "invierno",
-      "Riego": "Cada 1-2 semanas",
+      "riego": "Cada 1-2 semanas",
       "img": "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/154043567663218714.jpeg?x-oss-process=image/format,webp/resize,s_422&v=1.3" 
     }
     
     
   ],
+
   "frutales": [
     {
       "id": "1",
@@ -54,9 +55,9 @@
       "nombre_cientifico": "Malus pumila",
       "descripcion": "El manzano es el árbol frutal comestible más cultivado. Se cree que fue domesticado hace algo más de 15 mil años. Los antiguos romanos fueron los encargados de introducirlo en Europa. Este árbol aparece en la mitología griega como el árbol de la vida que da manzanas de oro. Además, en la Biblia las manzanas aparecen como el fruto prohibido.",
       "siembra": "Primavera, Principios de verano, Otoño, Principios de invierno",
-      "cosecha": "Finales de invierno, Primavera, Principios de verano, Mediados de verano",
+      "floracion": "Finales de invierno, Primavera, Principios de verano, Mediados de verano",
       "poda": "finales de invierno",
-      "Riego": "Cada 1-2 semanas",
+      "riego": "Cada 1-2 semanas",
       "img": "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/201218453315649536.jpeg?x-oss-process=image/format,webp/resize,s_422&v=1.3" 
     },
     {
@@ -65,9 +66,9 @@
       "nombre_cientifico": "Ficus carica",
       "descripcion": "La higuera produce higos como fruto que son comestibles. Además, también produce látex blanco que se ha usado para la producción de quesos. Es uno de los primeros árboles cultivados por el hombre. Dado que sus frutos se comercializan, la higuera ha resultado muy importante para la economía, ya que se cultiva extensamente.",
       "siembra": "Primavera, Principios de verano, Otoño, Principios de invierno",
-      "cosecha": "Verano, Otoño, Principios de invierno",
+      "floracion": "Verano, Otoño, Principios de invierno",
       "poda": "Invierno",
-      "Riego": "Cada 1-2 semanas",
+      "riego": "Cada 1-2 semanas",
       "img": "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/154187934398939162.jpeg?x-oss-process=image/format,webp/resize,s_422&v=1.3" 
     },
     {
@@ -76,9 +77,9 @@
       "nombre_cientifico": "Citrus trifoliata",
       "descripcion": "El singular trilistni citronovec funciona de maravilla como seto vivo para delimitar propiedades por sus espinas firmes y su gran tolerancia a las podas fuertes, aunque su uso más frecuente es como portainjertos de otras plantas y, en especial, de los cítricos, debido a su gran resistencia.",
       "siembra": "Primavera, Otoño",
-      "cosecha": "Otoño",
+      "floracion": "Otoño",
       "poda": "Primavera",
-      "Riego": "Cada 1-2 semanas",
+      "riego": "Cada 1-2 semanas",
       "img": "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/154068276610072596.jpeg?x-oss-process=image/format,webp/resize,s_422&v=1.3" 
     },
     {
@@ -87,10 +88,89 @@
       "nombre_cientifico": "Citrus limon",
       "descripcion": "El limonero es uno de los árboles frutales más cultivados para el consumo de su fruta. España y Argentina son los principales exportadores mundiales de limón. La esencia del limón se obtiene de la cáscara, se utiliza en perfumería y como aromatizante. En adición, con su madera de llamativo veteado se pueden crear hermosas piezas.",
       "siembra": "Mediados de primavera, Finales de primavera, Principios de verano, Otoño, Principios de invierno",
-      "cosecha": "Principios de primavera, Mediados de otoño, Finales de otoño, Invierno",
+      "floracion": "Principios de primavera, Mediados de otoño, Finales de otoño, Invierno",
       "poda": "Primavera",
-      "Riego": "Cada 1-2 semanas",
+      "riego": "Cada 1-2 semanas",
       "img": "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/201174112073252864.jpeg?x-oss-process=image/format,webp/resize,s_422&v=1.3" 
+    }
+  ],
+  
+  "preguntas": [
+    {
+      "id": "1",
+      "pregunta": "¿Que es el tallo?",
+      "respuesta": "Podemos definir al tallo como la parte de la planta que crece al sentido contrario de la raíz. Además, es el encargado de llevar el agua, nutrientes y sales minerales a todas las partes de la planta para facilitar el intercambio energético que se produce durante la fotosíntesis.",
+      "caracteristicas": [
+        "El tallo se origina en la yémula o plúmula del embrión de una semilla.", 
+        "Es el órgano de sostén de la planta, encargado de darle sujeción no sólo a las hojas, sino también a las flores y frutos.",
+        "Los tallos cuentan con yemas terminales de las que brotaran tanto flores como nuevas ramificaciones.",
+        "Además, posee geotropismo negativo, es decir que van en sentido contrario a la tierra, y fototropismo positivo, es decir que van en sentido positivo hacia la luz. Esto es lo que provoca que en su mayoría crezcan hacia arriba y al contrario que las raíces."
+      ],
+      "img": "https://cdn0.ecologiaverde.com/es/posts/8/7/7/partes_del_tallo_y_sus_funciones_2778_600.webp",
+      "ref": "https://www.ecologiaverde.com/partes-del-tallo-y-sus-funciones-2778.html"
+    },
+    {
+      "id": "2",
+      "pregunta": "Formas de reproduccion",
+      "respuesta": "Cuando tratamos de clasificar las plantas según su tipo de reproducción, hay dos grandes tipos de reproducción vegetal: la reproducción asexual y la sexual. Hay una enorme variedad en sus métodos y formas de reproducción, pero estos son los dos grandes tipos que las clasifican.",
+      "caracteristicas": [
+        "Reproduccion sexual en las plantas: La reproducción sexual se da a partir del material genético de dos sujetos progenitores, en que se unen los gametos: uno femenino y uno masculino. Es la reproducción más habitual entre las plantas y, de hecho, la reproducción de las plantas por semillas es casi siempre de tipo sexual.", 
+        "Reproducción asexual en las plantas :La reproducción asexual, en cambio, tiene su origen en un proceso de mitosis celular y da lugar a un nuevo individuo exactamente igual a su progenitor. Se da sobre todo en las plantas no vasculares y puede ocurrir por esporas, propágulos o por mano de las personas, en forma de multiplicación vegetativa."
+      ],
+      "img": "https://cdn0.ecologiaverde.com/es/posts/5/2/3/reproduccion_de_las_plantas_2325_600.webp",
+      "ref": "https://www.ecologiaverde.com/reproduccion-de-las-plantas-2325.html"
+    },
+    {
+      "id": "3",
+      "pregunta": "¿Que son las raíces?",
+      "respuesta": "Las raíces son el primer órgano que la planta desarrolla al germinar. Crecen extendiéndose y ramificándose, normalmente bajo tierra, para cubrir todo el terreno posible y así aumentar la capacidad de absorción de agua y nutrientes de la planta, que realizan por medio de pelos absorbentes. Estos nutrientes son transportados luego al resto de la planta.",
+      "caracteristicas": [
+        "Segun su forma (Primarias o axonomorfas, Fasciculadas, Napiformes, Ramificadas, Tuberosas)", 
+        "Según la dirección de crecimiento (Adventicias, Acuaticas, Chupadoras, Aéreas, Almacenamiento)",
+        "Según el anclaje que proporcionan (Contráctiles, Fúlcreas, Epífitas)"
+      ],
+      "img": "https://cdn0.ecologiaverde.com/es/posts/4/4/6/tipos_de_raices_2644_600.webp",
+      "ref": "https://www.ecologiaverde.com/tipos-de-raices-2644.html"
+    },
+    {
+      "id": "4",
+      "pregunta": "Características de las hojas",
+      "respuesta": "Las hojas son una de las partes más visibles y reconocibles de las plantas y, en realidad, también son una de las más importantes. Estas son las responsables de captar la luz solar y realizar la fotosíntesis que da energía a la planta, así como la respiración vegetal también se da en ellas.",
+      "caracteristicas": [
+        "Según el pecíolo (Pecioladas, Sésiles)", 
+        "Según la división del limbo (Simples, Divididas)",
+        "Según su forma (Elíptica, Lanceolada, Acicular, Oval, Acorazonada, Sagitada, Lineal)",
+        "Según su borde (Entera, Dentada, Lobulada, Ondulada)",
+        "Según su nervadura (Penninervia, Palminervia, Paralelinervia)"
+      ],
+      "img": "https://cdn0.ecologiaverde.com/es/posts/8/3/4/tipos_de_hojas_2438_600.webp",
+      "ref": "https://www.ecologiaverde.com/tipos-de-hojas-2438.html"
+    },
+    {
+      "id": "5",
+      "pregunta": "Las flores colores y formas",
+      "respuesta": "Las flores son una de las caras más visibles del reino vegetal para muchos, sobre todo para los aficionados a la jardinería. Estas partes de las plantas, tan importantes para su reproducción y para la naturaleza en general, cuentan con innumerables tamaños, formas y olores.",
+      "caracteristicas": [
+        "Plantas gimnospermas. No producen flores", 
+        "Plantas angiospermas. Producen flores (Monocotiledóneas, Dicotiledóneas)"
+      ],
+      "img": "https://cdn0.ecologiaverde.com/es/posts/2/6/4/tipos_de_flores_2462_600.webp",
+      "ref": "https://www.ecologiaverde.com/tipos-de-flores-2462.html"
+    },
+    {
+      "id": "6",
+      "pregunta": "El fruto",
+      "respuesta": "Si hablamos en términos botánicos, el fruto es el órgano que se forma a partir de la flor, ya sea completa o de algunas de sus partes, y que se encarga de proteger la semilla o semillas mientras estas maduran. ¿Cómo se forma el fruto? Habitualmente el fruto se forma cuando el óvulo es fecundado. A partir de ahí el ovario se endurece y se empieza a formar el fruto. Las paredes del ovario dan lugar al pericarpio, que a su vez está formado por la más externa de las partes del fruto que es el epicarpio, la capa media que es el mesocarpio y el endocarpio, que es la capa interna que protege la semilla.",
+      "caracteristicas": [
+        "Según el tipo de pericarpio (Secos, Carnosos, Oleaginosos)", 
+        "Según la cantidad de semillas que contienen (Monospermo, Polispermo)",
+        "Según la expulsión de semillas (Sutural simple, Sutural doble, Septicida, Loculicida, Septifraga, Placenticida, Placentrifaga, Poricida, Transversal, Dental)",
+        "Según las partes que lo forman (Simples, Complejos)",
+        "Según el número de carpelos de los que proceden (Monocárpico, Policárpico)"
+      ],
+      "img": "https://cdn0.ecologiaverde.com/es/posts/9/6/8/tipos_de_frutos_2869_600.webp",
+      "ref": "https://www.ecologiaverde.com/tipos-de-frutos-2869.html"
+
     }
   ]
 }

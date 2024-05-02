@@ -1,0 +1,29 @@
+.flores {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 40px;
+    max-width: 1200px;
+    margin: 40px auto;
+}
+
+.flores .card{
+    padding: 20px;
+    transition: all 0.3s ease;
+    position: relative;
+    margin: auto;
+    cursor: pointer;
+    width: 250px;
+    min-height: 300px;
+
+}
+
+.flores .card h4 {
+    text-align: center;
+}
+
+.flores .card img{
+    max-width: 250px;
+}
+
+
+

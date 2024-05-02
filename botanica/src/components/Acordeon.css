@@ -1,0 +1,29 @@
+.acordeon .titulo {
+    margin: auto;
+    background: #FFF;
+    padding: 15px;
+    border-bottom: 1px solid #000;
+}
+
+.acordeon .descripcion {
+    display: block;
+    padding: 20px 60px;
+    margin-bottom: 30px;
+    background: #FFF;
+    border: 1px solid #FFF;
+}
+
+.acordeon .descripcion .imagen {
+    text-align: center;
+    padding: 20px;
+}
+
+.acordeon .descripcion .imagen img {
+    position: relative;
+    margin: 0 auto;
+    max-width: 300px;
+}
+.acordeon .noDisplay {
+    display: none;
+}
+
