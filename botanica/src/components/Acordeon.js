@@ -10,7 +10,7 @@ export default function Acordeon({pregunta, manejarEleccion, activo}) {
     
   return (
     <div className="acordeon">
-        <div className="titulo" onClick={manejarClick}>
+        <div className={activo? "titulo active" : "titulo"} onClick={manejarClick}>
             <h2>{pregunta.pregunta}</h2>
         </div>
         <div className={activo? "descripcion" : "noDisplay"}>

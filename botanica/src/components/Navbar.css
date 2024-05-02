@@ -1,6 +1,7 @@
 .navbar {
     padding: 20px;
     background: #2aaa6e;
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
     
 }
 

@@ -1,16 +1,37 @@
+.acordeon  {
+    margin-bottom: 20px;
+    background: #FFF;
+    border: 1px solid #FFF;
+    
+}
+
 .acordeon .titulo {
     margin: auto;
     background: #FFF;
     padding: 15px;
+    position: relative;
     border-bottom: 1px solid #000;
+    cursor: pointer;
+}
+
+.acordeon .titulo::after {
+    content: ">";
+    display: inline-block;
+    position: absolute;
+    right: 15px;
+    bottom: 15px;
+    transform: rotate(90deg) scale(0.5, 1);
+    font-weight: bold;
+    transition: transform 0.3s;
+}
+.acordeon .titulo.active::after {
+    transform: rotate(-90deg) scale(0.5, 1);
 }
 
 .acordeon .descripcion {
     display: block;
-    padding: 20px 60px;
-    margin-bottom: 30px;
-    background: #FFF;
-    border: 1px solid #FFF;
+    padding: 40px;
+    
 }
 
 .acordeon .descripcion .imagen {
@@ -25,5 +46,7 @@
 }
 .acordeon .noDisplay {
     display: none;
+    max-height: 0;
+    
 }
 

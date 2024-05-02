@@ -11,7 +11,12 @@ export default function Info() {
     const [choice, setChoice] = useState(null)
     
     const manejarEleccion = (p) => {
-        setChoice(p)
+        if(choice === p){
+            setChoice(null)
+        }else{
+            setChoice(p)
+        }
+        
     }
 
   return (

@@ -6,7 +6,8 @@ body {
   font-family: Raleway, sans-serif;
   margin: 0;
   font-size: 1.4em;
-  background: #dfdfdf;
+  background: rgb(249,248,209);
+  background: radial-gradient(circle, rgba(249,248,209,1) 0%, rgba(211,215,163,1) 45%, rgba(249,216,147,1) 100%);
   color: #333;
 }
 h1,h2,h3,p {
